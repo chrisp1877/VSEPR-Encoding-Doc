@@ -3,14 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to VSEPR Encoding Docs's documentation!
+GEMSEC VSEPR Encoding Documentation
 ===============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   vsepr-encoding
+   vsepr-testing-training
+   support
 
-
+=================
+Introduction
+=================
 
 Indices and tables
 ==================

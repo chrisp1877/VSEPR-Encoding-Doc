@@ -1,10 +1,10 @@
-.. VSEPR Encoding documentation master file, created by
-   sphinx-quickstart on Sun Jul 21 14:07:59 2019.
+.. VSEPR Encoding Docs documentation master file, created by
+   sphinx-quickstart on Sun Jul 21 14:26:04 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to VSEPR Encoding's documentation!
-==========================================
+Welcome to VSEPR Encoding Docs's documentation!
+===============================================
 
 .. toctree::
    :maxdepth: 2
